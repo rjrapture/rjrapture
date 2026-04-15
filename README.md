@@ -1,16 +1,25 @@
-## 🛠️ My Digital Tool Network
-I build and maintain a suite of specialized web utilities designed for speed and SEO.
+# Hi, I'm Rakesh 👋
+**Full-Stack Developer | SEO Specialist | Tool Architect**
 
-| Project | Description | Link |
+I build high-performance, utility-driven web applications that solve daily digital problems. My network of tools focuses on speed, user experience, and programmatic SEO.
+
+## 🛠️ My Digital Tool Network
+I manage a diverse ecosystem of 9+ web platforms, all optimized for performance and reliability.
+
+| Category | Primary Platform | Featured Tools |
 | :--- | :--- | :--- |
-| **ToolOnWeb** | 🧰 Love calculators | [Visit Site](https://toolonweb.com) |
-| **ConverterGuru** | 📏 Professional Unit Conversion Platform | [Visit Site](https://converterguru.com) |
-| **RJ Calculator** | 🧮 Comprehensive Financial & Math Calculators | [Visit Site](https://rjcalculator.com) |
-| **PhotoKB** | 🖼️ Image Optimizer for Indian Govt. Exams | [Visit Site](https://photokb.in) |
-| **ImageXYZ** | 🎨 Advanced Image Processing & Editing Tools | [Visit Site](https://imagexyz.net) |
-| **DateTimeTrack** | ⏰ Timezone, Date, and Countdown Utilities | [Visit Site](https://datetimetrack.com) |
-| **ILovePomodoro** | 🍅 Productivity & Focus Timer | [Visit Site](https://ilovepomodoro.com) |
-| **ILoveMarks** | 🎓 Student Grade & Percentage Tracking | [Visit Site](https://ilovemarks.com) |
-| **Swimmy Fish** | 🎮 Browser-based Arcade Gaming | [Visit Site](https://swimmyfish.fun) |
+| **Main Hub** | [**ToolOnWeb.com**](https://toolonweb.com) | Love Calculators, SEO Utilities, Captions |
+| **Calculators** | [**RJCalculator.com**](https://rjcalculator.com) | EMI, GST, SIP, and Financial Tools |
+| **Converters** | [**ConverterGuru.com**](https://converterguru.com) | Engineering & Technical Unit Conversion |
+| **Image Tools** | [**PhotoKB.in**](https://photokb.in) | Image Optimization for Indian Exams |
+| **Education** | [**ILoveMarks.com**](https://ilovemarks.com) | Grade & Percentage Tracking |
+| **Productivity** | [**ILovePomodoro.com**](https://ilovepomodoro.com) | Focus Timers & Time Management |
+| **Gaming** | [**SwimmyFish.fun**](https://swimmyfish.fun) | HTML5 / JavaScript Arcade Gaming |
+
+## 🚀 Tech Expertise
+- **Frontend:** Vanilla JS, HTML5, CSS3, Tailwind CSS.
+- **SEO:** Programmatic SEO, Sitemap Optimization, Core Web Vitals.
+- **Logic:** Building complex mathematical and date-time algorithms.
 
 ---
+📫 **Connect with me:** [ToolOnWeb Contact](https://toolonweb.com/contact-us/)
